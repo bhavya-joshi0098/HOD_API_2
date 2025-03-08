@@ -4,7 +4,7 @@
         "role":"HOD",
         "department": "Ministry_of_Home_and_Affriars",
         "password": "0000",
-       " employees": [
+       "employees": [
             { "name": "EMP_A1", "department": "Ministry_of_Home_and_Affriars","password": "0000", "workers": [
                 { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
                 { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
@@ -91,7 +91,8 @@
         "name": "HOD_B",
         "department": "Ministry_of_finance",
         "role":"HOD",
-       " employees": [
+        "password": "0000",
+       "employees": [
             { "name": "EMP_B1", "department": "Ministry_of_finance","password": "0000", "workers": [
                 { "name": "w_emp_B1_A", "department": "Ministry_of_finance","password": "0000" },
                 { "name": "w_emp_B1_B", "department": "Ministry_of_finance","password": "0000" }
@@ -178,6 +179,7 @@
         "name": "HOD_C",
         "department": "Ministry_of_education",
         "role":"HOD",
+        "password": "0000",
        " employees": [
             { "name": "EMP_C1", "department": "Ministry_of_education","password": "0000", "workers": [
                 { "name": "w_emp_C1_A", "department": "Ministry_of_education","password": "0000" },
@@ -285,7 +287,8 @@
         "name": "HOD_D",
         "department": "Ministry_of_labour",
         "role":"HOD",
-       " employees": [
+        "password": "0000",
+       "employees": [
             { "name": "EMP_D1", "department": "Ministry_of_labour","password": "0000", "workers": [
                 { "name": "w_emp_D1_A", "department": "Ministry_of_labour","password": "0000" },
                 { "name": "w_emp_D1_B", "department": "Ministry_of_labour","password": "0000" }
@@ -373,7 +376,8 @@
         "name": "HOD_E",
         "department": "Ministry_of_it_&_electronics",
         "role":"HOD",
-       " employees": [
+        "password": "0000",
+       "employees": [
             { "name": "EMP_E1", "department": "Ministry_of_it_&_electronics","password": "0000", "workers": [
                 { "name": "w_emp_E1_A", "department": "Ministry_of_it_&_electronics","password": "0000" },
                 { "name": "w_emp_E1_B", "department": "Ministry_of_it_&_electronics","password": "0000" }
@@ -460,7 +464,8 @@
         "name": "HOD_F",
         "department": "Ministry_of_transport",
         "role":"HOD",
-       " employees": [
+        "password": "0000",
+       "employees": [
             { "name": "EMP_F1", "department": "Ministry_of_transport", "password": "0000", "workers": [
                 { "name": "w_emp_F1_A", "department": "Ministry_of_transport", "password": "0000" },
                 { "name": "w_emp_F1_B", "department": "Ministry_of_transport", "password": "0000" }
@@ -547,7 +552,8 @@
         "name": "HOD_G",
         "department": "Ministry_of_rural_development",
         "role":"HOD",
-       " employees": [
+        "password": "0000",
+       "employees": [
             { "name": "EMP_G1", "department": "Ministry_of_rural_development", "password": "0000", "workers": [
                 { "name": "w_emp_G1_A", "department": "Ministry_of_rural_development", "password": "0000" },
                 { "name": "w_emp_G1_B", "department": "Ministry_of_rural_development", "password": "0000" }
@@ -634,7 +640,8 @@
         "name": "HOD_H",
         "department": "Ministry_of_defence_ministry_of_agriculture",
         "role":"HOD",
-       " employees": [
+        "password": "0000",
+       "employees": [
             { "name": "EMP_H1", "department": "Ministry_of_defence_ministry_of_agriculture","password": "0000", "workers": [
                 { "name": "w_emp_H1_A", "department": "Ministry_of_defence_ministry_of_agriculture","password": "0000" },
                 { "name": "w_emp_H1_B", "department": "Ministry_of_defence_ministry_of_agriculture","password": "0000" }
@@ -721,7 +728,8 @@
         "name": "HOD_I",
         "department": "Ministry_of_health",
         "role":"HOD",
-       " employees": [
+        "password": "0000",
+       "employees": [
             { "name": "EMP_I1", "department": "Ministry_of_health","password": "0000", "workers": [
                 { "name": "w_emp_I1_A", "department": "Ministry_of_health","password": "0000"},
                 { "name": "w_emp_I1_B", "department": "Ministry_of_health","password": "0000"}
@@ -808,7 +816,8 @@
         "name": "HOD_J",
         "department": "Ministry_of_agriculture",
         "role":"HOD",
-       " employees": [
+        "password": "0000",
+       "employees": [
             { "name": "EMP_J1", "department": "Ministry_of_agriculture","password": "0000", "workers": [
                 { "name": "w_emp_J1_A", "department": "Ministry_of_agriculture","password": "0000"},
                 { "name": "w_emp_J1_B", "department": "Ministry_of_agriculture","password": "0000"}
