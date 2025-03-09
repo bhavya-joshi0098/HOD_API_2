@@ -42,14 +42,16 @@ app.get('/api/hods/:hodName', (req, res) => {
 });
 
 // Get employees under a specific HOD
-app.get('/api/hods/:hodName/:employees', (req, res) => {
+app.get('/api/hods/:hodName/employees', (req, res) => {
     const hodName = req.params.hodName;
-    const data = getData();
+    const data = getData(); // Ensure this returns your HOD data array
     const hod = data.find(h => h.name === hodName);
-    if (!hod || !hod[" employees"]) { // Handling extra space issue
+    
+    if (!hod || !hod.employees) { // ✅ Fixed property name
         return res.status(404).json({ message: 'Employees not found' });
     }
-    res.json(hod[" employees"]);
+    
+    res.json(hod.employees); // ✅ Directly access `employees`
 });
 
 // Get workers under a specific employee
