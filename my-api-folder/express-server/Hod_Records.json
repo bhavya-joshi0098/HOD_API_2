@@ -180,7 +180,7 @@
         "department": "Ministry_of_education",
         "role":"HOD",
         "password": "0000",
-       " employees": [
+       "employees": [
             { "name": "EMP_C1", "department": "Ministry_of_education","password": "0000", "workers": [
                 { "name": "w_emp_C1_A", "department": "Ministry_of_education","password": "0000" },
                 { "name": "w_emp_C1_B", "department": "Ministry_of_education","password": "0000" }
