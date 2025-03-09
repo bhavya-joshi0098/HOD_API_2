@@ -42,7 +42,7 @@ app.get('/api/hods/:hodName', (req, res) => {
 });
 
 // Get employees under a specific HOD
-app.get('/api/hods/:hodName/employees', (req, res) => {
+app.get('/api/hods/:hodName/:employees', (req, res) => {
     const hodName = req.params.hodName;
     const data = getData();
     const hod = data.find(h => h.name === hodName);
