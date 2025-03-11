@@ -63,7 +63,7 @@ app.get('/api/hods/:hodName/employees/:empName/workers', (req, res) => {
         return res.status(404).json({ message: 'HOD or Employees not found' });
     }
 
-    const employee = hod[" employees"].find(emp => emp.name === empName);
+    const employee = hod["employees"].find(emp => emp.name === empName);
     if (!employee || !employee.workers) {
         return res.status(404).json({ message: 'Employee or Workers not found' });
     }
