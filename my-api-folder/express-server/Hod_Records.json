@@ -1,92 +1,351 @@
-[
+{
+  "name": "HOD_A",
+  "role": "HOD",
+  "department": "Ministry_of_Home_and_Affriars",
+  "password": "0000",
+  "employees": [
     {
-        "name": "HOD_A",
-        "role":"HOD",
-        "department": "Ministry_of_Home_and_Affriars",
-        "password": "0000",
-       "employees": [
-            { "name": "EMP_A1", "department": "Ministry_of_Home_and_Affriars","password": "0000", "workers": [
-                { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
-                { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
-            ]},
-            { "name": "EMP_A2", "department": "Ministry_of_Home_and_Affriars", "password": "0000", "workers": [
-                { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
-                { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
-            ]},
-            { "name": "EMP_A3", "department": "Ministry_of_Home_and_Affriars", "password": "0000", "workers": [
-                { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
-                { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
-            ]},
-            { "name": "EMP_A4", "department": "Ministry_of_Home_and_Affriars",  "password": "0000", "workers": [
-                { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
-                { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
-            ]},
-            { "name": "EMP_A5", "department": "Ministry_of_Home_and_Affriars",  "password": "0000", "workers": [
-                { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
-                { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
-            ]},
-            { "name": "EMP_A6", "department": "Ministry_of_Home_and_Affriars",  "password": "0000", "workers": [
-                { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
-                { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
-            ]},
-            { "name": "EMP_A7", "department": "Ministry_of_Home_and_Affriars",  "password": "0000", "workers": [
-                { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
-                { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
-            ]},
-            { "name": "EMP_A8", "department": "Ministry_of_Home_and_Affriars",  "password": "0000", "workers": [
-                { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
-                { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
-            ]},
-            { "name": "EMP_A9", "department": "Ministry_of_Home_and_Affriars",  "password": "0000", "workers": [
-                { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
-                { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
-            ]},
-            { "name": "EMP_A10", "department": "Ministry_of_Home_and_Affriars",  "password": "0000", "workers": [
-                { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
-                { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
-            ]},
-            { "name": "EMP_A11", "department": "Ministry_of_Home_and_Affriars",  "password": "0000", "workers": [
-                { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
-                { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
-            ]},
-            { "name": "EMP_A12", "department": "Ministry_of_Home_and_Affriars", "password": "0000", "workers": [
-                { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
-                { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
-            ]},
-            { "name": "EMP_A13", "department": "Employee Management", "password": "0000", "workers": [
-                { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
-                { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
-            ]},
-            { "name": "EMP_A14", "department": "Ministry_of_Home_and_Affriars",  "password": "0000", "workers": [
-                { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
-                { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
-            ]},
-            { "name": "EMP_A15", "department": "Ministry_of_Home_and_Affriars",  "password": "0000", "workers": [
-                { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
-                { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
-            ]},
-            { "name": "EMP_A16", "department": "Ministry_of_Home_and_Affriars",  "password": "0000", "workers": [
-                { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
-                { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
-            ]},
-            { "name": "EMP_A17", "department": "Ministry_of_Home_and_Affriars",  "password": "0000", "workers": [
-                { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
-                { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
-            ]},
-            { "name": "EMP_A18", "department": "Ministry_of_Home_and_Affriars",  "password": "0000", "workers": [
-                { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
-                { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
-            ]},
-            { "name": "EMP_A19", "department": "Ministry_of_Home_and_Affriars",  "password": "0000", "workers": [
-                { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
-                { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
-            ]},
-            { "name": "EMP_A20", "department": "Ministry_of_Home_and_Affriars",  "password": "0000", "workers": [
-                { "name": "w_emp_A1_A", "department": "Ministry_of_Home_and_Affriars","password": "0000" },
-                { "name": "w_emp_A1_B", "department": "Ministry_of_Home_and_Affriars","password": "0000" }
-            ]}
-        ]
+      "name": "EMP_A1",
+      "department": "Ministry_of_Home_and_Affriars",
+      "password": "0000",
+      "workers": [
+        {
+          "name": "w_emp_A1_A",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        },
+        {
+          "name": "w_emp_A1_B",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        }
+      ]
     },
+    {
+      "name": "EMP_A2",
+      "department": "Ministry_of_Home_and_Affriars",
+      "password": "0000",
+      "workers": [
+        {
+          "name": "w_emp_A2_A",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        },
+        {
+          "name": "w_emp_A2_B",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        }
+      ]
+    },
+    {
+      "name": "EMP_A3",
+      "department": "Ministry_of_Home_and_Affriars",
+      "password": "0000",
+      "workers": [
+        {
+          "name": "w_emp_A3_A",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        },
+        {
+          "name": "w_emp_A3_B",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        }
+      ]
+    },
+    {
+      "name": "EMP_A4",
+      "department": "Ministry_of_Home_and_Affriars",
+      "password": "0000",
+      "workers": [
+        {
+          "name": "w_emp_A4_A",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        },
+        {
+          "name": "w_emp_A4_B",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        }
+      ]
+    },
+    {
+      "name": "EMP_A5",
+      "department": "Ministry_of_Home_and_Affriars",
+      "password": "0000",
+      "workers": [
+        {
+          "name": "w_emp_A5_A",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        },
+        {
+          "name": "w_emp_A5_B",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        }
+      ]
+    },
+    {
+      "name": "EMP_A6",
+      "department": "Ministry_of_Home_and_Affriars",
+      "password": "0000",
+      "workers": [
+        {
+          "name": "w_emp_A6_A",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        },
+        {
+          "name": "w_emp_A6_B",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        }
+      ]
+    },
+    {
+      "name": "EMP_A7",
+      "department": "Ministry_of_Home_and_Affriars",
+      "password": "0000",
+      "workers": [
+        {
+          "name": "w_emp_A7_A",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        },
+        {
+          "name": "w_emp_A7_B",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        }
+      ]
+    },
+    {
+      "name": "EMP_A8",
+      "department": "Ministry_of_Home_and_Affriars",
+      "password": "0000",
+      "workers": [
+        {
+          "name": "w_emp_A8_A",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        },
+        {
+          "name": "w_emp_A8_B",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        }
+      ]
+    },
+    {
+      "name": "EMP_A9",
+      "department": "Ministry_of_Home_and_Affriars",
+      "password": "0000",
+      "workers": [
+        {
+          "name": "w_emp_A9_A",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        },
+        {
+          "name": "w_emp_A9_B",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        }
+      ]
+    },
+    {
+      "name": "EMP_A10",
+      "department": "Ministry_of_Home_and_Affriars",
+      "password": "0000",
+      "workers": [
+        {
+          "name": "w_emp_A10_A",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        },
+        {
+          "name": "w_emp_A10_B",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        }
+      ]
+    },
+    {
+      "name": "EMP_A11",
+      "department": "Ministry_of_Home_and_Affriars",
+      "password": "0000",
+      "workers": [
+        {
+          "name": "w_emp_A11_A",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        },
+        {
+          "name": "w_emp_A11_B",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        }
+      ]
+    },
+    {
+      "name": "EMP_A12",
+      "department": "Ministry_of_Home_and_Affriars",
+      "password": "0000",
+      "workers": [
+        {
+          "name": "w_emp_A12_A",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        },
+        {
+          "name": "w_emp_A12_B",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        }
+      ]
+    },
+    {
+      "name": "EMP_A13",
+      "department": "Employee Management",
+      "password": "0000",
+      "workers": [
+        {
+          "name": "w_emp_A13_A",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        },
+        {
+          "name": "w_emp_A13_B",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        }
+      ]
+    },
+    {
+      "name": "EMP_A14",
+      "department": "Ministry_of_Home_and_Affriars",
+      "password": "0000",
+      "workers": [
+        {
+          "name": "w_emp_A14_A",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        },
+        {
+          "name": "w_emp_A14_B",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        }
+      ]
+    },
+    {
+      "name": "EMP_A15",
+      "department": "Ministry_of_Home_and_Affriars",
+      "password": "0000",
+      "workers": [
+        {
+          "name": "w_emp_A15_A",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        },
+        {
+          "name": "w_emp_A15_B",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        }
+      ]
+    },
+    {
+      "name": "EMP_A16",
+      "department": "Ministry_of_Home_and_Affriars",
+      "password": "0000",
+      "workers": [
+        {
+          "name": "w_emp_A16_A",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        },
+        {
+          "name": "w_emp_A16_B",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        }
+      ]
+    },
+    {
+      "name": "EMP_A17",
+      "department": "Ministry_of_Home_and_Affriars",
+      "password": "0000",
+      "workers": [
+        {
+          "name": "w_emp_A17_A",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        },
+        {
+          "name": "w_emp_A17_B",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        }
+      ]
+    },
+    {
+      "name": "EMP_A18",
+      "department": "Ministry_of_Home_and_Affriars",
+      "password": "0000",
+      "workers": [
+        {
+          "name": "w_emp_A18_A",
+          "department": "Mi8nistry_of_Home_and_Affriars",
+          "password": "0000"
+        },
+        {
+          "name": "w_emp_A18_B",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        }
+      ]
+    },
+    {
+      "name": "EMP_A19",
+      "department": "Ministry_of_Home_and_Affriars",
+      "password": "0000",
+      "workers": [
+        {
+          "name": "w_emp_A19_A",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        },
+        {
+          "name": "w_emp_A19_B",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        }
+      ]
+    },
+    {
+      "name": "EMP_A20",
+      "department": "Ministry_of_Home_and_Affriars",
+      "password": "0000",
+      "workers": [
+        {
+          "name": "w_emp_A20_A",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        },
+        {
+          "name": "w_emp_A20_B",
+          "department": "Ministry_of_Home_and_Affriars",
+          "password": "0000"
+        }
+      ]
+    }
+  ]
+},
     {
         "name": "HOD_B",
         "department": "Ministry_of_finance",
